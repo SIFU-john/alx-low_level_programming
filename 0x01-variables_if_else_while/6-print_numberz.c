@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include<stdio.h>
 /**
 * main -entry point
@@ -18,4 +15,3 @@ int main(void)
 putchar('\n');
 return (0);
 }
->>>>>>> 0f0700b2a4ff8fa14ec810a8d5b7224a85398923
