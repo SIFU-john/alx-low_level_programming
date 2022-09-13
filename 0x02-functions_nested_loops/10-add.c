@@ -8,6 +8,6 @@
 * Return: sum of two nums
 */
 int add(int num, int numm)
-{	
+{
 	return (num + numm);
 }
