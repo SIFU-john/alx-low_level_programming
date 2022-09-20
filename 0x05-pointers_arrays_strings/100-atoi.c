@@ -1,3 +1,4 @@
+#include "main.c"
 /**
 * main - check the code
 * _atoi - converts a string to an integer
