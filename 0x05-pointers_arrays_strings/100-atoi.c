@@ -3,7 +3,7 @@
 * main - check the code
 * _atoi - converts a string to an integer
 * @s: string to be converted
-* the int converted from the string
+* Return: the int converted from the string
 * Return: Always 0.
 */
 int _atoi(char *s)
