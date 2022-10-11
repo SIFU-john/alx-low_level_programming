@@ -1,5 +1,6 @@
 #ifndef DOG_H
 #define DOG_H
+int _putchar (char c);
 
 /**
 * struct dog - a dog's basic info
